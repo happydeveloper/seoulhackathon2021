@@ -16,6 +16,10 @@
 - 산책 시간과 거리 자동 측정
 - FTT 이용한 반려견의 심박음성파일을 심박수로 변환하는 라이브러리 구현
 
+# 구조
+
+| GPS | <-- uart --> | ardunio | <-- i2c --> | tizen(rpi) | <-- | 마이크 |
+
 # 시연동영상
 
 [![타이젠-시연동영상](https://img.youtube.com/vi/_jHV6aySWbI/0.jpg)](https://www.youtube.com/watch?v=_jHV6aySWbI)
