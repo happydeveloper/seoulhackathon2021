@@ -1,0 +1,10 @@
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\tpkroot\bin\BeakerTracker.dll
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\tpkroot\bin\BeakerTracker.pdb
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\tpkroot\bin\Tizen.NUI.XamlBuild.dll
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\tpkroot\BeakerTracker.deps.json
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\tpkroot\res\heartbeat-01a.wav
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\tpkroot\res\images\tizen.png
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\tpkroot\res\theme\theme.xaml
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\tpkroot\shared\res\MyIP1.png
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\tpkroot\tizen-manifest.xml
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\org.tizen.example.BeakerTracker-1.0.0.tpk

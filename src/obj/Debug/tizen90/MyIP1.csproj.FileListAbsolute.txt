@@ -1,0 +1,12 @@
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\MyIP1.csproj.AssemblyReference.cache
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\MyIP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\Scene1Page.xaml.g.cs
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\MyIP1.AssemblyInfoInputs.cache
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\MyIP1.AssemblyInfo.cs
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\MyIP1.csproj.CoreCompileInputs.cache
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\MyIP1.dll
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\MyIP1.pdb
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\MyIP1.deps.json
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\MyIP1.dll
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\MyIP1.pdb
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\XamlC.stamp

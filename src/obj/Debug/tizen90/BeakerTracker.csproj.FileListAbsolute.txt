@@ -1,0 +1,12 @@
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\BeakerTracker.deps.json
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\BeakerTracker.dll
+C:\Users\duru\source\repos\MyIP1\bin\Debug\tizen90\BeakerTracker.pdb
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\BeakerTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\Scene1Page.xaml.g.cs
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\BeakerTracker.AssemblyInfoInputs.cache
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\BeakerTracker.AssemblyInfo.cs
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\BeakerTracker.csproj.CoreCompileInputs.cache
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\XamlC.stamp
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\BeakerTracker.dll
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\BeakerTracker.pdb
+C:\Users\duru\source\repos\MyIP1\obj\Debug\tizen90\BeakerTracker.csproj.AssemblyReference.cache

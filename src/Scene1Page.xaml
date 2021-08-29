@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<View x:Class="BeakerTracker.Scene1Page"
+        xmlns="http://tizen.org/Tizen.NUI/2018/XAML"
+        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+        xmlns:local="clr-namespace:MyIP1"
+        WidthSpecification="{Static LayoutParamPolicies.MatchParent}"
+        HeightSpecification="{Static LayoutParamPolicies.MatchParent}"
+        BackgroundColor="#EEEEEE">
+    <View.Layout>
+        <LinearLayout LinearOrientation="Vertical" LinearAlignment="Center"></LinearLayout>
+    </View.Layout>
+    <View x:Name="centerView" WidthSpecification="600" HeightSpecification="600" BackgroundColor="White" CornerRadius="50">
+        <View.Layout>
+            <LinearLayout LinearOrientation="Vertical" LinearAlignment="Center" CellPadding="20,20"></LinearLayout>
+        </View.Layout>
+
+
+        <Button Text="Distance walk" x:Name="Gps" Clicked="Gps_Clicked" />
+        <Button Text="heartbeat CNT" Clicked="FFT_Clicked" />
+
+        <TextLabel Text="let's go for a walk."
+               x:Name="rstSensor"
+               PixelSize="80"/>
+    </View>
+     
+</View>
